@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-news-homepage-built-using-css-grid-and-javascript-QlnvpcEP_Z)
 - Live Site URL: [live site URL here](https://news-homepagemain.netlify.app/)
 
 ## My process
@@ -51,6 +51,5 @@ Desktop-first workflow
 - Website - [Abdullah Ayoola](https://github.com/abdullah43577)
 - Frontend Mentor - [@abdullah43577](https://www.frontendmentor.io/profile/abdullah43577)
 - Twitter - [@officialayo540](https://twitter.com/officialayo540)
-
 
 https://user-images.githubusercontent.com/100965547/198843811-6c9cb45e-aae4-4d80-8bf5-11267699a50f.mp4
